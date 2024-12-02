@@ -1,0 +1,34 @@
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.Form1.resources
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.csproj.GenerateResource.cache
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.AssemblyInfoInputs.cache
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.AssemblyInfo.cs
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.csproj.CoreCompileInputs.cache
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\bin\Debug\net8.0-windows\FootballTradingCards.exe
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\bin\Debug\net8.0-windows\FootballTradingCards.deps.json
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\bin\Debug\net8.0-windows\FootballTradingCards.runtimeconfig.json
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\bin\Debug\net8.0-windows\FootballTradingCards.dll
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\bin\Debug\net8.0-windows\FootballTradingCards.pdb
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.dll
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\obj\Debug\net8.0-windows\refint\FootballTradingCards.dll
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.pdb
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.genruntimeconfig.cache
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\obj\Debug\net8.0-windows\ref\FootballTradingCards.dll
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.Properties.Resources.resources
+B:\S# rapid application\BasketballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.Form1.resources
+B:\S# rapid application\BasketballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.Properties.Resources.resources
+B:\S# rapid application\BasketballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.csproj.GenerateResource.cache
+B:\S# rapid application\BasketballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.GeneratedMSBuildEditorConfig.editorconfig
+B:\S# rapid application\BasketballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.AssemblyInfoInputs.cache
+B:\S# rapid application\BasketballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.AssemblyInfo.cs
+B:\S# rapid application\BasketballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.csproj.CoreCompileInputs.cache
+B:\S# rapid application\BasketballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.dll
+B:\S# rapid application\BasketballTradingCards\obj\Debug\net8.0-windows\refint\FootballTradingCards.dll
+B:\S# rapid application\BasketballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.pdb
+B:\S# rapid application\BasketballTradingCards\bin\Debug\net8.0-windows\FootballTradingCards.exe
+B:\S# rapid application\BasketballTradingCards\bin\Debug\net8.0-windows\FootballTradingCards.deps.json
+B:\S# rapid application\BasketballTradingCards\bin\Debug\net8.0-windows\FootballTradingCards.runtimeconfig.json
+B:\S# rapid application\BasketballTradingCards\bin\Debug\net8.0-windows\FootballTradingCards.dll
+B:\S# rapid application\BasketballTradingCards\bin\Debug\net8.0-windows\FootballTradingCards.pdb
+B:\S# rapid application\BasketballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.genruntimeconfig.cache
+B:\S# rapid application\BasketballTradingCards\obj\Debug\net8.0-windows\ref\FootballTradingCards.dll

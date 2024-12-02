@@ -1,0 +1,17 @@
+B:\S# rapid application\BasketballTradingCards\obj\Debug\net8.0-windows\BasketballTradingCards.Form1.resources
+B:\S# rapid application\BasketballTradingCards\obj\Debug\net8.0-windows\BasketballTradingCards.Properties.Resources.resources
+B:\S# rapid application\BasketballTradingCards\obj\Debug\net8.0-windows\BasketballTradingCards.csproj.GenerateResource.cache
+B:\S# rapid application\BasketballTradingCards\obj\Debug\net8.0-windows\BasketballTradingCards.GeneratedMSBuildEditorConfig.editorconfig
+B:\S# rapid application\BasketballTradingCards\obj\Debug\net8.0-windows\BasketballTradingCards.AssemblyInfoInputs.cache
+B:\S# rapid application\BasketballTradingCards\obj\Debug\net8.0-windows\BasketballTradingCards.AssemblyInfo.cs
+B:\S# rapid application\BasketballTradingCards\obj\Debug\net8.0-windows\BasketballTradingCards.csproj.CoreCompileInputs.cache
+B:\S# rapid application\BasketballTradingCards\bin\Debug\net8.0-windows\BasketballTradingCards.exe
+B:\S# rapid application\BasketballTradingCards\bin\Debug\net8.0-windows\BasketballTradingCards.deps.json
+B:\S# rapid application\BasketballTradingCards\bin\Debug\net8.0-windows\BasketballTradingCards.runtimeconfig.json
+B:\S# rapid application\BasketballTradingCards\bin\Debug\net8.0-windows\BasketballTradingCards.dll
+B:\S# rapid application\BasketballTradingCards\bin\Debug\net8.0-windows\BasketballTradingCards.pdb
+B:\S# rapid application\BasketballTradingCards\obj\Debug\net8.0-windows\BasketballTradingCards.dll
+B:\S# rapid application\BasketballTradingCards\obj\Debug\net8.0-windows\refint\BasketballTradingCards.dll
+B:\S# rapid application\BasketballTradingCards\obj\Debug\net8.0-windows\BasketballTradingCards.pdb
+B:\S# rapid application\BasketballTradingCards\obj\Debug\net8.0-windows\BasketballTradingCards.genruntimeconfig.cache
+B:\S# rapid application\BasketballTradingCards\obj\Debug\net8.0-windows\ref\BasketballTradingCards.dll
